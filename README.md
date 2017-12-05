@@ -10,6 +10,6 @@ Camera Effects
 
 This is my camera Effects 
 
-![picture_title](https://github.com/santiagocarina/santiagocarina.github.io/blob/master/Carina.PNG?raw=true "Optional Title")
+![Carina](https://github.com/santiagocarina/santiagocarina.github.io/blob/master/Carina.PNG?raw=true "Optional Title")
 
 ***
